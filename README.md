@@ -25,7 +25,7 @@ Student Maintenance Apps is a program used to maintain student databases
 
 ### Run
 
-#### Command menu and list
+#### 1. Command menu and list
 
 <img src="img/1.png" width = 50%>
 
@@ -33,19 +33,19 @@ Run StudentMainApp.java and Enter "list" command
 
 For the first time user, There are no students in the database. The result will be a empty list
 
-#### Add and check
+#### 2. Add and check
 
 <img src="img/2.png" width = 49%> <img src="img/3.png" width = 49%>
 
 Enter "add" command and fill out name, gpa, gender and student number
 
-#### Update and check
+#### 3. Update and check
 
 <img src="img/4.png" width = 50%>
 
 Enter "update" command and fill out the form
 
-#### Delete and check
+#### 4. Delete and check
 
 <img src="img/5.png" width = 50%>
 
